@@ -1,13 +1,13 @@
 ### Hi there 👋
 
 ### 📊 Algorithm Solving (2022-02-16)
-+ **Code Up**  [(Link)](Algorithm/CodeUp)
++ **Code Up**  [(Link)](https://github.com/ict-cspark/TIL/tree/master/Algorithm/CodeUp)
   + **98** Problems Solved
-+ **SW Expert Academy**  [(Link)](Algorithm/SWExpertAcademy)
++ **SW Expert Academy**  [(Link)](https://github.com/ict-cspark/TIL/tree/master/Algorithm/SWExpertAcademy)
   + **36** Problems Solved
-+ **Baekjoon Oline Judge**  [(Link)](Algorithm/Baekjoon)
++ **Baekjoon Oline Judge**  [(Link)](https://github.com/ict-cspark/TIL/tree/master/Algorithm/Baekjoon) 
   + **65** Problems Solved
-+ **Programmers** [(Link)](Algorithm/Programmers)
++ **Programmers** [(Link)](https://github.com/ict-cspark/TIL/tree/master/Algorithm/Programmers)
   + **67** Problems Solved
 
 #### Total *266* Problems Solved
