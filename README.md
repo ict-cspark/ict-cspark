@@ -1,5 +1,18 @@
 ### Hi there 👋
 
+### 📊 Algorithm Solving (2022-02-16)
++ **Code Up**  [(Link)](Algorithm/CodeUp)
+  + **98** Problems Solved
++ **SW Expert Academy**  [(Link)](Algorithm/SWExpertAcademy)
+  + **36** Problems Solved
++ **Baekjoon Oline Judge**  [(Link)](Algorithm/Baekjoon)
+  + **65** Problems Solved
++ **Programmers** [(Link)](Algorithm/Programmers)
+  + **67** Problems Solved
+
+#### Total *266* Problems Solved
+  
+
 
 <!--
 **ict-cspark/ict-cspark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
