@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+### 👨‍💻 TIL (Today I Learn)
++ **README** [(Link)](https://github.com/ict-cspark/TIL/blob/master/README.md)
+
+
 ### 📊 Algorithm Solving (2022-02-23)
 + **Code Up**  [(Link)](https://github.com/ict-cspark/TIL/tree/master/Algorithm/CodeUp)
   + **98** Problems Solved
