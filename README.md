@@ -4,17 +4,17 @@
 + **README** [(Link)](https://github.com/ict-cspark/TIL/blob/master/README.md)
 
 
-### 📊 Algorithm Solving (2022-02-23)
+### 📊 Algorithm Solving (2022-02-24)
 + **Code Up**  [(Link)](https://github.com/ict-cspark/TIL/tree/master/Algorithm/CodeUp)
   + **98** Problems Solved
 + **SW Expert Academy**  [(Link)](https://github.com/ict-cspark/TIL/tree/master/Algorithm/SWExpertAcademy)
-  + **60** Problems Solved
+  + **63** Problems Solved
 + **Baekjoon Oline Judge**  [(Link)](https://github.com/ict-cspark/TIL/tree/master/Algorithm/Baekjoon) 
-  + **67** Problems Solved
+  + **68** Problems Solved
 + **Programmers** [(Link)](https://github.com/ict-cspark/TIL/tree/master/Algorithm/Programmers)
   + **67** Problems Solved
 
-#### Total *292* Problems Solved
+#### Total *296* Problems Solved
   
 
 
