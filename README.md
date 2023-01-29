@@ -4,7 +4,7 @@
 + **README** [(Link)](https://github.com/ict-cspark/TIL/blob/master/README.md)
 
 
-### 📊 Algorithm Solving (2023-01-28) 
+### 📊 Algorithm Solving (2023-01-29) 
 + **Code Up**  [(Link)](https://github.com/ict-cspark/TIL/tree/master/Algorithm/CodeUp)
   + **98** Problems Solved
 + **SW Expert Academy**  [(Link)](https://github.com/ict-cspark/TIL/tree/master/Algorithm/SWExpertAcademy)
