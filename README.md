@@ -16,4 +16,4 @@
 
 #### Total *489* Problems Solved
   
-[![ckstjr](http://mazassumnida.wtf/api/v2/generate_badge?boj={ckstjr})](https://solved.ac/{ckstjr})
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ckstjr)](https://solved.ac/ckstjr)
