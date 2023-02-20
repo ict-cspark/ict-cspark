@@ -81,7 +81,7 @@
         </td>
       </tr>
       <tr>
-        <td>◾ 98 Problems Solved</td>
+        <td>▪ 98 Problems Solved</td>
       </tr>
       <tr>
         <td>
@@ -92,7 +92,7 @@
         </td>
       </tr>
       <tr>
-        <td>◾ 123 Problems Solved</td>
+        <td>▪ 123 Problems Solved</td>
       </tr>
       <tr>
         <td>
@@ -103,7 +103,7 @@
         </td>
       </tr>
       <tr>
-        <td>◾ 169 Problems Solved</td>
+        <td>▪ 169 Problems Solved</td>
       </tr>
       <tr>
         <td>
@@ -114,7 +114,7 @@
         </td>
       </tr>
       <tr>
-        <td>◾ 99 Problems Solved</td>
+        <td>▪ 99 Problems Solved</td>
       </tr>  
       <tr>
         <td><strong>Total 489 Problems Solved</strong></td>
