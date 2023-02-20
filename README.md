@@ -98,7 +98,7 @@
         <td>
           <strong>
             <span>✔ Baekjoon Online Judge</span>
-            <a href="https://github.com/ict-cspark/TIL/tree/master/Algorithm/Baekjoon">(Link)</a>
+            <a href="https://github.com/ict-cspark/Algorithm/tree/master/%EB%B0%B1%EC%A4%80">(Link)</a>
           </strong>
         </td>
       </tr>
