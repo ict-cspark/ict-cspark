@@ -2,7 +2,7 @@
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=timeauto&height=250&section=header&text=ChanSeok%20Park&fontColor=fcba03&fontSize=80&fontAlign=62&fontAlignY=44&desc=Hi%20👋,%20I'm&descSize=40&descAlign=84&descAlignY=17" />
 
-  <img src="https://2.gall-gif.com/hygall/files/attach/images/82/557/552/189/1786b119778bb1ca718047c3a20e7285.gif" />
+  <img src="https://mblogthumb-phinf.pstatic.net/MjAxOTEyMTdfMjg3/MDAxNTc2NTA4NTY3MTcx.5AkR9kgXuKxO3bpCcqsD1YW7-QRf85bCUJ6BUjWVzL4g.YVy_XAoNZ20IWpBXS7e_nzjoKXYQtqiMIaLtNaGKj44g.GIF.zop00515/1576508566417.gif?type=w800" />
 
   <div>
     <h3>🎳 About Me 🎳</h3>
@@ -76,7 +76,7 @@
         <td>
           <strong>
             <span>✔ Code Up</span>
-            <a href="https://github.com/ict-cspark/TIL/tree/master/Algorithm/CodeUp">(Link)</a>
+            <a href="https://github.com/ict-cspark/Algorithm/tree/master/CodeUp">(Link)</a>
           </strong>
         </td>
       </tr>
@@ -87,7 +87,7 @@
         <td>
           <strong>
             <span>✔ SW Expert Academy</span>
-            <a href="https://github.com/ict-cspark/TIL/tree/master/Algorithm/SWExpertAcademy">(Link)</a>
+            <a href="https://github.com/ict-cspark/Algorithm/tree/master/SWEA">(Link)</a>
           </strong>
         </td>
       </tr>
