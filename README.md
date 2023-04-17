@@ -103,7 +103,7 @@
         </td>
       </tr>
       <tr>
-        <td>▪ 203 Problems Solved</td>
+        <td>▪ 206 Problems Solved</td>
       </tr>
       <tr>
         <td>
@@ -117,7 +117,7 @@
         <td>▪ 201 Problems Solved</td>
       </tr>  
       <tr>
-        <td><strong>Total 625 Problems Solved</strong></td>
+        <td><strong>Total 628 Problems Solved</strong></td>
       </tr>       
     </table>
     <a href="https://solved.ac/ckstjr" title="Go to Source">
