@@ -117,7 +117,7 @@
         <td>▪ 392 Problems Solved</td>
       </tr>  
       <tr>
-        <td><strong>Total 842 Problems Solved</strong></td>
+        <td><strong>Total 843 Problems Solved</strong></td>
       </tr>       
     </table>
     <a href="https://solved.ac/ckstjr" title="Go to Source">
