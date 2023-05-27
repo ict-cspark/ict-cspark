@@ -7,7 +7,7 @@
   <div>
     <h3>🎳 About Me 🎳</h3>
     <div>
-      <a href="https://ckstjr.notion.site/Hello-JayPark-d7cf6c67804f4b779e50a8141ff59f4f">
+      <a href="https://ckstjr.notion.site/d7cf6c67804f4b779e50a8141ff59f4f">
         <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"/>
       </a>
       <a href="https://ckstjr.tistory.com/">
