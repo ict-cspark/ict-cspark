@@ -103,7 +103,7 @@
         </td>
       </tr>
       <tr>
-        <td>▪ 232 Problems Solved</td>
+        <td>▪ 233 Problems Solved</td>
       </tr>
       <tr>
         <td>
@@ -114,7 +114,7 @@
         </td>
       </tr>
       <tr>
-        <td>▪ 406 Problems Solved</td>
+        <td>▪ 407 Problems Solved</td>
       </tr>  
       <tr>
         <td><strong>Total 859 Problems Solved</strong></td>
