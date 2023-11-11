@@ -7,10 +7,10 @@
   <div>
     <h3>🎳 About Me 🎳</h3>
     <div>
-      <a href="https://www.notion.so/ckstjr/d7cf6c67804f4b779e50a8141ff59f4f?pvs=4">
+      <a href="https://www.notion.so/ckstjr/d7cf6c67804f4b779e50a8141ff59f4f?pvs=4" style="text-decoration:none">
         <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"/>
       </a>
-      <a href="https://ckstjr.tistory.com/">
+      <a href="https://ckstjr.tistory.com/" style="text-decoration:none">
         <img src="https://img.shields.io/badge/Tistory-B5B5B6?style=for-the-badge&logo=Tistory&logoColor=white"/>
       </a>
     </div>
