@@ -7,7 +7,7 @@
   <div>
     <h3>🎳 About Me 🎳</h3>
     <div>
-      <a href="https://www.notion.so/ckstjr/d7cf6c67804f4b779e50a8141ff59f4f?pvs=4" style="text-decoration:none">
+      <a href="https://www.notion.so/ckstjr/d7cf6c67804f4b779e50a8141ff59f4f?source=copy_link" style="text-decoration:none">
         <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"/>
       </a>
       <a href="https://ckstjr.tistory.com/" style="text-decoration:none">
@@ -117,7 +117,7 @@
         <td>▪ 407 Problems Solved</td>
       </tr>  
       <tr>
-        <td><strong>Total 888 Problems Solved</strong></td>
+        <td><strong>Total 889 Problems Solved</strong></td>
       </tr>       
     </table>
     <a href="https://solved.ac/ckstjr" title="Go to Source">
